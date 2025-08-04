@@ -30,7 +30,7 @@ List all participants on the project. Here is a good space to share your persona
 | Frederic Bonou | Guinea |  |   |  |
 | Jiang |  |   |  |
 | Jing Tan |  |   |  |
-| Natalie McCourt |  |   |  |
+| Natalie McCourt | Maine |  (https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC
 | Sajna Hussain |  |   |  |
 | Punya P |  |   |  |
 
