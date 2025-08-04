@@ -33,7 +33,7 @@ List all participants on the project. Here is a good space to share your persona
 | Natalie McCourt | NES |  [spacenatalie](https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC
 | Sajna Hussain |  |   |  |
 | Punya P |  |   |  |
-| [Haley Synan](https://www.fisheries.noaa.gov/contact/haley-synan) | NES | [hsynan](https://github.com/hsynan) | Python, ML, general oceanography | NOAA Fishers/IBSS 
+| [Haley Synan](https://www.fisheries.noaa.gov/contact/haley-synan) | NES | [hsynan](https://github.com/hsynan) | Python, ML, general oceanography | NOAA Fisheries/IBSS 
 
 
 ## Data and Methods
