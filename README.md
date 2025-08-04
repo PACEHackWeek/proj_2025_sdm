@@ -33,7 +33,7 @@ List all participants on the project. Here is a good space to share your persona
 | Natalie McCourt | Maine |  [spacenatalie](https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC
 | Sajna Hussain |  |   |  |
 | Punya P |  |   |  |
-| Haley Synan | GOM | hsynan | Python, Git, ML, Oceanography | NOAA Fishers/IBSS 
+| Haley Synan | GOM | hsynan | Python, Git, ML, general oceanography | NOAA Fishers/IBSS 
 
 
 ## Data and Methods
