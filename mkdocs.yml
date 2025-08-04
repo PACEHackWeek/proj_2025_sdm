@@ -1,0 +1,13 @@
+site_name: sdm
+theme:
+  name: material
+
+plugins:
+  - search
+  - mkdocstrings
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
