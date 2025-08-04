@@ -45,6 +45,8 @@ We need observations of presence/absence, abundance, or level (oxygen) with date
 
 Plan to explore PACE products.
 
+* Light penetration. We'd need to compute.
+
 ### Proposed methods/tools
 
 XBoost
