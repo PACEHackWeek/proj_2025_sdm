@@ -1,0 +1,18 @@
+[project]
+name = "sdm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Eli Holmes", email = "eli.holmes@noaa.gov" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "earthaccess>=0.14.0",
+    "pandas>=2.3.1",
+    "pyobis>=1.4.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
