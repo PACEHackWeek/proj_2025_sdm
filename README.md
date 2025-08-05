@@ -84,3 +84,14 @@ I had to downgrade
 ```
 pip install "pydantic<2"
 ```
+
+Add a function
+* add to existing file in `src` or add new file
+* add to docs/reference.md
+* if added new file, edit `src/__init__.py`
+
+Add an example notebook
+* add to existing file in `docs/examples`
+* add to docs/index.md
+* add to `mkdocs.yml`
+

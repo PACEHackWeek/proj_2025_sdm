@@ -23,4 +23,5 @@ nav:
   - Home: index.md
   - Examples:
       - "Plot BBox": examples/simple_bbox.ipynb
+      - "Viz the trawl data": examples/trawl_viz.ipynb
   - API Reference: reference.md
