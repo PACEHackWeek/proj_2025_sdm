@@ -2,6 +2,7 @@
 
 This package has some functions to create sdms that use remote-sensing data.
 
-## API Reference
+## Examples
 
-::: sdm.simple_bbox
+- [simple_bbbox](examples/simple_bbox.ipynb)
+

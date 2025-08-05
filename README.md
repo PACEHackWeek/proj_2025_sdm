@@ -66,3 +66,21 @@ Optional: links to manuscripts or technical documents providing background infor
 
 ## Project Results
 
+## Documentation
+
+Build
+```
+mkdocs gh-deploy
+```
+
+First time make
+```
+pip install mkdocs mkdocstrings[python] mkdocs-material
+mkdocs new .
+mkdocs gh-deploy
+```
+
+I had to downgrade
+```
+pip install "pydantic<2"
+```
