@@ -75,7 +75,8 @@ mkdocs gh-deploy
 First time make
 ```
 pip install mkdocs mkdocstrings[python] mkdocs-material mkdocs-jupyter
-mkdocs new .
+pip install -e .
+# mkdocs new .
 mkdocs gh-deploy
 ```
 

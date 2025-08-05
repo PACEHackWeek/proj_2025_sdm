@@ -4,9 +4,15 @@ theme:
 
 plugins:
   - search
-  - mkdocstrings
   - mkdocs-jupyter
-
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_signature: true
+            show_root_heading: true
+            show_root_full_path: true
+            
 markdown_extensions:
   - admonition
   - codehilite
@@ -16,5 +22,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Examples:
-      - "Plot BBox": examples/plot_bbox.ipynb
+      - "Plot BBox": examples/simple_bbox.ipynb
   - API Reference: reference.md
