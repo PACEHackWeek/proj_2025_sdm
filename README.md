@@ -27,13 +27,12 @@ List all participants on the project. Here is a good space to share your persona
 | Artem Dzhulai |   |  |  |   |
 | Dante Horemans | Chesepeake |  |  |   |
 | [Eli Holmes](https://eeholmes.github.io/) | Floater | [eeholmes](https://github.com/eeholmes) | Project Helper; Git; Python; SDMs | NOAA; Univ of Wash; OceanHackWeek |
-| Frederic Bonou | Guinea |  |   |  |
+| Frederic Bonou |  |  |   |  |
 | Jiang |  |   |  |
 | Jing Tan |  |   |  |
-| Natalie McCourt | NES |  [spacenatalie](https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC
+| Natalie McCourt | NES |  [spacenatalie](https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC |
 | Sajna Hussain |  |   |  |
-| Punya P |  |   |  |
-| [Haley Synan](https://www.fisheries.noaa.gov/contact/haley-synan) | NES | [hsynan](https://github.com/hsynan) | Python, ML, general oceanography | NOAA Fisheries/IBSS 
+| [Haley Synan](https://www.fisheries.noaa.gov/contact/haley-synan) | NES | [hsynan](https://github.com/hsynan) | Python, ML, general oceanography | NOAA Fisheries/IBSS |
 
 
 ## Data and Methods
@@ -75,7 +74,7 @@ mkdocs gh-deploy
 
 First time make
 ```
-pip install mkdocs mkdocstrings[python] mkdocs-material
+pip install mkdocs mkdocstrings[python] mkdocs-material mkdocs-jupyter
 mkdocs new .
 mkdocs gh-deploy
 ```
