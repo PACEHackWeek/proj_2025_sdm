@@ -24,7 +24,7 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Team|  GitHub | Things I bring | Affiliation |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Artem Dzhulai |   |  |  |   |
+| Artem Dzhulai | NES | [adzhulai] (https://github.com/adzhulai) | Python, Git, general oceanorgaphy | Univ of Rhode Island |
 | Dante Horemans | Chesepeake |  |  |   |
 | [Eli Holmes](https://eeholmes.github.io/) | Floater | [eeholmes](https://github.com/eeholmes) | Project Helper; Git; Python; SDMs | NOAA; Univ of Wash; OceanHackWeek |
 | Frederic Bonou | Guinea |  |   |  |
