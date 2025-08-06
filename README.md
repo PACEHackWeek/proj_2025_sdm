@@ -27,12 +27,13 @@ List all participants on the project. Here is a good space to share your persona
 | Artem Dzhulai | NES | [adzhulai] (https://github.com/adzhulai) | Python, Git, general oceanorgaphy | Univ of Rhode Island |
 | Dante Horemans | Chesepeake |  |  |   |
 | [Eli Holmes](https://eeholmes.github.io/) | Floater | [eeholmes](https://github.com/eeholmes) | Project Helper; Git; Python; SDMs | NOAA; Univ of Wash; OceanHackWeek |
-| Frederic Bonou |  |  |   |  |
-| Jiang |  |   |  |
-| Jing Tan |  |   |  |
-| Natalie McCourt | NES |  [spacenatalie](https://spacenatalie.github.io/) | Python, Git, netCDF | UMBC |
-| Sajna Hussain |  |   |  |
+| Frederic Bonou | Canary Current |  |   |  |
+| Jiang | Chesepeake |   |  |
+| Jing Tan | Chesepeake |   |  |
+| [Natalie McCourt](https://spacenatalie.github.io/) | NES |  [spacenatalie]([https://](https://github.com/spacenatalie) | Python, Git, netCDF | UMBC |
+| Sajna Hussain | NES |   |  |
 | [Haley Synan](https://www.fisheries.noaa.gov/contact/haley-synan) | NES | [hsynan](https://github.com/hsynan) | Python, ML, general oceanography | NOAA Fisheries/IBSS |
+| Jamon Jordan | NES | [justjamon](https://github.com/justjamon) | Python, seascapes, SDMs| Oregon State University, CEOAS |
 
 
 ## Data and Methods
