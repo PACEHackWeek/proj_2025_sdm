@@ -24,10 +24,10 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Team|  GitHub | Things I bring | Affiliation |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Artem Dzhulai | NES | [adzhulai] (https://github.com/adzhulai) | Python, Git, general oceanorgaphy | Univ of Rhode Island |
+| Artem Dzhulai | NES | [adzhulai](https://github.com/adzhulai) | Python, Git, general oceanorgaphy | Univ of Rhode Island |
 | Dante Horemans | Chesepeake |  |  |   |
 | [Eli Holmes](https://eeholmes.github.io/) | Floater | [eeholmes](https://github.com/eeholmes) | Project Helper; Git; Python; SDMs | NOAA; Univ of Wash; OceanHackWeek |
-| Frederic Bonou | Canary Current | [fred](https://github.com/spacenatalie) |   |  |
+| Frederic Bonou | Canary Current | [FREDERICBONOU](https://github.com/FREDERICBONOU) |   |  |
 | Jiang | Chesepeake |   |  |
 | Jing Tan | Chesepeake |   |  |
 | [Natalie McCourt](https://spacenatalie.github.io/) | NES |  [spacenatalie](https://github.com/spacenatalie) | Python, Git, netCDF | UMBC |
